@@ -9,6 +9,9 @@ Downloads will be in the Releases Tab (in a minute)
 > 
 > Which should be the 2023 Beta
 
+GameMaker Version is here: https://gms.yoyogames.com/ReleaseNotes.html
+> Just open "Older Versions", press ```CTRL + F```, and Search for ```2023.11.1.129```
+
 ### Thanks to
 - DaLeKer, for leaking the Source Code on [Youtube](https://www.youtube.com/watch?v=eoHOUO1kM8I)
 - The Scoutdigo Team, for making the mod in the first place
