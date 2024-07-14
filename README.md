@@ -6,8 +6,6 @@ Downloads will be in the Releases Tab (in a minute)
 
 > [!NOTE]
 > The Last Used GameMaker IDE Version is ```2023.11.1.129``` according to the ```.yyp```
-> 
-> Which should be the 2023 Beta
 
 GameMaker Version is here: https://gms.yoyogames.com/ReleaseNotes.html
 > Just open "Older Versions", press ```CTRL + F```, and Search for ```2023.11.1.129```
