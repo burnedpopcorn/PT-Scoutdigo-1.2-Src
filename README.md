@@ -4,6 +4,11 @@ A re-upload of the Scoutdigo Mod's Source Code (v1.2)
 ## Downloads
 Downloads will be in the Releases Tab (in a minute)
 
+> [!NOTE]
+> The Last Used GameMaker IDE Version is ```2023.11.1.129``` according to the ```.yyp```
+> 
+> Which should be the 2023 Beta
+
 ### Thanks to
 - DaLeKer, for leaking the Source Code on [Youtube](https://www.youtube.com/watch?v=eoHOUO1kM8I)
 - The Scoutdigo Team, for making the mod in the first place
