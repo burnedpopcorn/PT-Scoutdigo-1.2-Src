@@ -1,6 +1,11 @@
 # Pizza Tower Scoutdigo 1.2 Source Code
 A re-upload of the Scoutdigo Mod's Source Code (v1.2)
 
+## UPDATE: Scoutdigo v1.2.3CE's Source Code has been found, Download in Releases
+> GameMaker Version for this recent one is ```2023.11.1.129```
+>
+> also, this might be the same source code, idk
+
 ## Downloads
 Downloads will be in the Releases Tab
 
